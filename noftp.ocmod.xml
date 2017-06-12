@@ -1,8 +1,8 @@
 <modification>
-    <name>无需FTP配置使用OCMOD方式上传安装扩充功能</name>
-	<version>1.1.1</version>
-	<link>http://www.opencart.cn</link>
-	<author>opencart.cn</author>
+        <name>not FTP Configuration Use OCMOD Way to upload and install the expansion function</name>
+	<version>1.0.0</version>
+	<link>http://www.dyd2.com</link>
+	<author>dyd2.com</author>
 	<code>noftp_ocmod</code>
 
 	<file path="admin/controller/extension/installer.php">
