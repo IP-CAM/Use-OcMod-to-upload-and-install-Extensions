@@ -1,2 +1,2 @@
 # ocmod
-noftp.ocmod.xml
+If no FTP available, use OcMod to upload and install Extensions
